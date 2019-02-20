@@ -1,0 +1,27 @@
+
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+
+article.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    width: 800px;
+}
+
+section.shop{
+    display: flex;
+    align-content: center;
+    border: 1px solid black;
+    flex-basis: 200px;
+    justify-content: space-between;
+    width: 50px;
+}
