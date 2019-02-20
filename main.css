@@ -5,7 +5,6 @@ html {
 .pageHeader {
     display: flex;
     justify-content: center;
-    align-content: center;
     margin-bottom: 10px;
 }
 
@@ -13,10 +12,10 @@ article.list {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    
+
 }
 
-section.shop{
+section.shop {
     display: flex;
     margin: 2px;
     flex-basis: 30%;
